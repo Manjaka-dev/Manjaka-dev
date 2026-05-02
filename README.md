@@ -1,68 +1,99 @@
-<h1 align="center">Hi, I'm Manjaka</h1>
-<h3 align="center">Software Engineering Student | Java & Full-Stack Developer</h3>
+<h1 align="center">Hi , I'm Manjaka</h1>
+<h3 align="center">Full-Stack Developer | Java • React </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manjaka-dev&label=Profile%20views&color=0e75b6&style=flat" alt="manjaka-dev" />
+  <img src="https://komarev.com/ghpvc/?username=manjaka-dev&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/manjaka-dev?label=Followers&style=social" />
 </p>
 
 ---
+
+<p align="center">
+  Building real-world applications from idea to deployment <br>
+  Full-stack mindset with strong backend focus <br>
+  Looking for a Software Engineering Internship
+</p>
+
+---
+
+## About Me
 
 - Computer Science student at IT-University  
-- Passionate about building scalable and useful applications
-- Currently looking for a **software engineering internship**
+- Freelance **Full-Stack Developer & Project Lead** at I-Tsika  
+- From system design to deployment (Dev → DevOps)  
+- I like building complete, scalable and usable systems  
 
 ---
 
-### What I do
+## Main Experience
 
-- Build **full-stack web applications** (Java / Spring / React)
-- Design **REST APIs** and backend architectures
-- Work on **real-world projects** with team collaboration
-- Interested in performance, system design, and clean code
+### I-Tsika — Full-Stack Developer & Project Lead
 
----
-
-### Current Projects
-
-- Working on **Mamy Foana**
-- Collaborating on **I-Tsika** (web platform project)
-- Developing a **production & sales management system** (Spring Boot + React)
+- Designed and developed **full-stack web applications**
+- Built and structured **REST APIs (Java / Spring)**
+- Developed frontend interfaces using **React**
+- Managed **deployment, testing, and production environments**
+- Involved in **system design and technical decision-making**
+- Leading a **C++ project** (architecture & development)
 
 ---
 
-### Tech Focus
+## Tech Stack
 
-**Main stack:**
-- Java (Spring, Spring Boot)
-- React + SASS
-- REST APIs
-- MySQL / PostgreSQL
-
-**Also experienced with:**
-- PHP (Laravel, CodeIgniter)
-- C / C++ (basics, system-level understanding)
-- Python (data & scripting)
-- Docker, Linux, Git
-
----
-
-### Contact
-
-- Email: **mandriantso@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/andrivola-manjaka-andriantsoa-086204290
-
----
-
-### GitHub Stats
-
+### Core Technologies
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=manjaka-dev&show_icons=true&locale=en" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,cpp,mysql,postgres" />
 </p>
 
+### Tools & Environment
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjaka-dev" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,figma,postman" />
 </p>
 
+### Also experienced with
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manjaka-dev&show_icons=true&locale=en&layout=compact" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,python" />
 </p>
+
+---
+
+## Current Focus
+
+- Working on **Nextgen**
+- Leading a **C++ project (real-time / system-oriented)**
+- Deepening **system design & backend architecture**
+
+---
+
+## Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/andrivola-manjaka-andriantsoa-086204290" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+</a>
+<a href="mailto:mandriantso@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+</a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manjaka-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjaka-dev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjaka-dev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## Mindset
+
+> I don’t just write code — I design, build, and deliver complete systems.
