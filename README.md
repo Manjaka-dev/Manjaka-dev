@@ -68,7 +68,7 @@
 ## Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/andrivola-manjaka-andriantsoa-086204290" target="blank">
+<a href="https://www.linkedin.com/in/manjaka-andriantsoa" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
 </a>
 <a href="mailto:mandriantso@gmail.com">
@@ -81,15 +81,19 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjaka-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manjaka-dev&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjaka-dev&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=manjaka-dev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjaka-dev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjaka-dev&layout=compact&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manjaka-dev&theme=tokyonight" />
 </p>
 
 ---
