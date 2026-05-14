@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Manjaka</h1>
-<h3 align="center">Full-Stack Developer | Java • React </h3>
+<h3 align="center">Full-Stack Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manjaka-dev&label=Profile%20views&color=0e75b6&style=flat" />
@@ -30,11 +30,11 @@
 ### I-Tsika — Full-Stack Developer & Project Lead
 
 - Designed and developed **full-stack web applications**
-- Built and structured **REST APIs (Java / Spring)**
-- Developed frontend interfaces using **React**
+- Built and structured **REST APIs**
+- Developed frontend interfaces
 - Managed **deployment, testing, and production environments**
 - Involved in **system design and technical decision-making**
-- Leading a **C++ project** (architecture & development)
+- Leading a **project** (architecture & development)
 
 ---
 
@@ -52,7 +52,7 @@
 
 ### Also experienced with
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,python" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python" />
 </p>
 
 ---
@@ -81,15 +81,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjaka-dev&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=manjaka-dev&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjaka-dev&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
